@@ -1,5 +1,5 @@
 # login-feature-in-cpp-using-file-handling
-This repository contains the source file of `Console Based Application` with `Login Feature` using `File Handling` in `C++`.
+This repository contains the source file of console-based application with `Login Feature` using `File Handling` in `C++`.
 
 ## Data to Test Source File
 ```
